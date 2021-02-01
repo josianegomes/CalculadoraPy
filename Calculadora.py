@@ -29,4 +29,4 @@ if operacao == 4:
         print('não é possível dividir por zero')
 
 else:
-    print('Nenhuma das opções são valídas.')
+    print('Nenhuma das opções são válidas.')
